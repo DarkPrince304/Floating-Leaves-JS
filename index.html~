@@ -6,5 +6,7 @@
 <script src="JS/Game.js" type="text/javascript"></script>
 <script src="JS/Title.js" type="text/javascript"></script>
 <script src="JS/Guide.js" type="text/javascript"></script>
+<script src="JS/GameOver.js" type="text/javascript"></script>
+<script src="JS/About.js" type="text/javascript"></script>
 </body>
 </html>
